@@ -1,6 +1,8 @@
 # UnoDosTres_Test
 Automation framework for OpenMRS application
 
+Download zip and import 'OpenMRS' project
+
 Test Environment:
 Platform : Windows
 
