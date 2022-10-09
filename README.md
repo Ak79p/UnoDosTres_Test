@@ -10,7 +10,7 @@ After importing Maven framework, if any error exists in java/test files, hover o
 
 How to run:
 1. Right click on testNG.xml
-2. RunAS testNG suite
+2. Run As testNG suite
 
 After execution, refresh the project. Go to 'reports' folder and find test execution results file -> 'index.html'
 
