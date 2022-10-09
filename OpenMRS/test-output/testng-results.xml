@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="70370" started-at="2022-10-09T16:22:24Z" finished-at="2022-10-09T16:23:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="70370" started-at="2022-10-09T16:22:24Z" finished-at="2022-10-09T16:23:34Z">
+      <class name="Automation.OpenMRS.OpenMRS_Test">
+        <test-method status="PASS" signature="initializeTest()[pri:0, instance:Automation.OpenMRS.OpenMRS_Test@20d3d15a]" name="initializeTest" is-config="true" duration-ms="5954" started-at="2022-10-09T21:52:24Z" finished-at="2022-10-09T21:52:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTest -->
+        <test-method status="PASS" signature="Login_test()[pri:1, instance:Automation.OpenMRS.OpenMRS_Test@20d3d15a]" name="Login_test" duration-ms="1814" started-at="2022-10-09T21:52:30Z" finished-at="2022-10-09T21:52:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_test -->
+        <test-method status="PASS" signature="Register_test()[pri:2, instance:Automation.OpenMRS.OpenMRS_Test@20d3d15a]" name="Register_test" duration-ms="10606" started-at="2022-10-09T21:52:32Z" finished-at="2022-10-09T21:52:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register_test -->
+        <test-method status="PASS" signature="findPatient_test()[pri:3, instance:Automation.OpenMRS.OpenMRS_Test@20d3d15a]" name="findPatient_test" duration-ms="2662" started-at="2022-10-09T21:52:42Z" finished-at="2022-10-09T21:52:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findPatient_test -->
+        <test-method status="PASS" signature="viewPatient_Test()[pri:4, instance:Automation.OpenMRS.OpenMRS_Test@20d3d15a]" name="viewPatient_Test" duration-ms="1514" started-at="2022-10-09T21:52:45Z" finished-at="2022-10-09T21:52:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewPatient_Test -->
+        <test-method status="PASS" signature="bookAppointment_Test()[pri:5, instance:Automation.OpenMRS.OpenMRS_Test@20d3d15a]" name="bookAppointment_Test" duration-ms="8286" started-at="2022-10-09T21:52:47Z" finished-at="2022-10-09T21:52:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookAppointment_Test -->
+        <test-method status="PASS" signature="addAttachment_Test()[pri:6, instance:Automation.OpenMRS.OpenMRS_Test@20d3d15a]" name="addAttachment_Test" duration-ms="13187" started-at="2022-10-09T21:52:55Z" finished-at="2022-10-09T21:53:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAttachment_Test -->
+        <test-method status="PASS" signature="delete_Test()[pri:7, instance:Automation.OpenMRS.OpenMRS_Test@20d3d15a]" name="delete_Test" duration-ms="3318" started-at="2022-10-09T21:53:08Z" finished-at="2022-10-09T21:53:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_Test -->
+        <test-method status="PASS" signature="logout_Test()[pri:8, instance:Automation.OpenMRS.OpenMRS_Test@20d3d15a]" name="logout_Test" duration-ms="6665" started-at="2022-10-09T21:53:11Z" finished-at="2022-10-09T21:53:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout_Test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Automation.OpenMRS.OpenMRS_Test@20d3d15a]" name="tearDown" is-config="true" duration-ms="16338" started-at="2022-10-09T21:53:18Z" finished-at="2022-10-09T21:53:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Automation.OpenMRS.OpenMRS_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
